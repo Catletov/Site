@@ -41,5 +41,5 @@ const C = document.querySelector("canvas"),
             arr[i]++
             }
         }
-        setInterval(draw, 123)
+        setInterval(draw, 75)
         //window.addEventListener('resize', () => location.reload())
