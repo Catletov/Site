@@ -2,8 +2,8 @@ const C = document.querySelector("canvas"),
         $ = C.getContext("2d"),
         W = C.width = 2000
         H = C.height = 1050
-        //const str = "`+愈0-1=2 3炎车 完儿4呀 為5火 溪6字 О7家 Р8动 9起У床 最!Х 新?的 ~ 电*脑& 零 福 跋",
-        const str = "ඞ SUS", //AMOGUS MODE
+        const str = "`+愈0-1=2 3炎车 完儿4呀 為5火 溪6字 О7家 Р8动 9起У床 最!Х 新?的 ~ 电*脑& 零 福 跋",
+        //const str = "ඞ SUS", //AMOGUS MODE
         matrix = str.split('')
         let font = 11,
         // количество колонок = ширина холста / размер шрифта
